@@ -18,7 +18,7 @@
 // let Wizzy = new CharacterData()
 
 
-class character {
+export class character {
     name
     role
     currentHp
@@ -44,4 +44,5 @@ class character {
     }
 }
 
-let Wizzy = new character('Wizzy Hattington', 'Wizard', 10)
+// let Wizzy = new character('Wizzy Hattington', 'Wizard', 10)
+
